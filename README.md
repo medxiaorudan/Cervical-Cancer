@@ -1,4 +1,4 @@
-The code for this app is [available on github](https://github.com/medxiaorudan/Cervical Cancer).
+The code for this app is [available on github](https://github.com/medxiaorudan/Cervical-Cancer).
 
 + According to the National Cervical Cancer, the annual incidence of cervical cancer in China is 145/100,000, Worldwide, cervical cancer is both the fourth-most common cause of cancer and the fourth-most common cause of death from cancer in women.
 
