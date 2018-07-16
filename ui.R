@@ -48,7 +48,7 @@ shinyUI(fluidPage(theme = shinytheme("spacelab"),
                                         checkboxInput('header', 'Header', FALSE)
                                       ),
                                       mainPanel(
-                                        h3("从dbSNP数据库中提取结直肠癌癌风险位点库中的rs位点信息，dbSNP数据库版本为dbSNP147，参考基因组版本为GRCh37.p13。
+                                        h3("从dbSNP数据库中提取结宫颈癌风险位点库中的rs位点信息，dbSNP数据库版本为dbSNP147，参考基因组版本为GRCh37.p13。
                                            然后寻找宫颈癌中连锁的rs位点，以连锁区域的30k为界限去除连锁位点，保留P值最显著的rs位点。
                                            随后，从千人基因组的VCF文件中提取宫颈癌风险位点库中收集的rs位点。"),
                                         plotOutput('plot'),
