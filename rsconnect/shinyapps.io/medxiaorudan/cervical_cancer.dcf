@@ -1,0 +1,10 @@
+name: cervical_cancer
+title:
+username:
+account: medxiaorudan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 381924
+bundleId: 1482723
+url: https://medxiaorudan.shinyapps.io/cervical_cancer/
+when: 1531754211.31881
