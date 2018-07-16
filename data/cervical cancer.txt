@@ -1,0 +1,6 @@
+RSID	Disease	Effect	Alter	Freq	OR	Beta	Chr	Pos	Pvalue	Genesymbol	LD
+rs13117307	cervical cancer	T	C	0.1518	1.26	0.2311	4	56751740	9.69E-09	EXOC1	0
+rs2275913	cervical cancer	G	A	0.2927	1.99	0.6881	6	52051033	0.01	IL-17	0
+rs4282438	cervical cancer	G	T	0.0938	0.75	-0.2877	6	33072172	4.52E-27	HLA-DPB2	23
+rs8067378	cervical cancer	G	A	0.4315	1.18	0.1655	17	38051348	2.00E-08	GSDMB	0
+rs9277952	cervical cancer	A	G	0.1587	0.85	-0.1625	6	33204274	2.31E-09	Intergenic	23
