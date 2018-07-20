@@ -15,7 +15,7 @@
 
 - ### Rudan Xiao
 
-- ### Yunxiao Ren
+- ### Yadong Yang
 
 - ### Hongzhu Qu
 
