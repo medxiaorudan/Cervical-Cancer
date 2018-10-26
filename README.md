@@ -1,15 +1,16 @@
-The code for this app is [available on github](https://github.com/medxiaorudan/Cervical-Cancer).
-
-+ According to the National Cervical Cancer, the annual incidence of cervical cancer in China is 145/100,000, Worldwide, cervical cancer is both the fourth-most common cause of cancer and the fourth-most common cause of death from cancer in women.
-
-+ The occurrence of cervical cancer by diet, lifestyle, hormone levels, genetic factors such as the impact.
-
-+ Through the study of the literature summarizes a large number of population research results, we chose to Chinese population as the research object to select the susceptibility of genetic loci to assess the genetic risk of colorectal cancer.
-
-+ Follow the example file instructions to submit the relevant genetic information, you can quickly calculate the genetic risk of cervical cancer.
-
-Author:
-+ <a href="http://www.big.ac.cn/yjdw/kyxmz/200907/t20090723_2185492.html" target=" blank">Fang's lab</a>
-
-Other Projects:
-+ <a href="https://medxiaorudan.shinyapps.io/Cervical Cancer/" target=" blank">Projects</a>
+## **The system consists of three pages: the Home page, the Upload page and the About page.**
+## **Home page**
+- ### The page consists of three main parts: disease background, system overview and overall structural process. 
+![overview](https://github.com/medxiaorudan/Cervical-Cancer/blob/master/image/overview.png)
+## **Upload page**
+- ### When the VCF file is not uploaded, the system automatically displays the graph of the thousand human genome in the risk of Cervical Cancer.
+![upload1](https://github.com/medxiaorudan/Cervical-Cancer/blob/master/image/upload1.png)
+- ### After the user uploads the VCF file, the user can obtain the genetic position in the thousand human genome and inform the OR value and relative genetic risk. The figure shows the relative genetic risk of Cervical Cancer, the blue arrow shows the relative genetic risk of the user in the thousands of human genomes, the curve shows the genetic risk of the thousands of human genomes, and the horizontal axis is the natural value of the relative risk OR after normalization. Logarithm, the vertical axis is the population probability density of the corresponding OR value.
+![upload2](https://github.com/medxiaorudan/Cervical-Cancer/blob/master/image/upload2.png)
+![upload3](https://github.com/medxiaorudan/Cervical-Cancer/blob/master/image/upload3.png)
+![upload4](https://github.com/medxiaorudan/Cervical-Cancer/blob/master/image/upload4.png)
+- ### If the user uploads a VCF file that does not contain a risk site in the Cervical Cancer-related risk locus library, the system will prompt the user that the document passed does not contain Cervical Cancer-related sites.
+![upload5](https://github.com/medxiaorudan/Cervical-Cancer/blob/master/image/upload5.png)
+## **About page**
+- ### This page shows questions, github links, author information and lab links.
+![upload7](https://github.com/medxiaorudan/Cervical-Cancer/blob/master/image/upload7.png)
