@@ -1,7 +1,7 @@
 ## **The system consists of three pages: the Home page, the Upload page and the About page.**
 ## **Home page**
 - ### The page consists of three main parts: disease background, system overview and overall structural process. 
-![overview](https://github.com/medxiaorudan/Cervical-Cancer/blob/master/image/overview.png)
+
 ## **Upload page**
 - ### When the VCF file is not uploaded, the system automatically displays the graph of the thousand human genome in the risk of Cervical Cancer.
 ![upload1](https://github.com/medxiaorudan/Cervical-Cancer/blob/master/image/upload1.png)
